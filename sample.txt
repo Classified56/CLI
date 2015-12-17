@@ -3,4 +3,8 @@ public class CommandLine
 {
 	//first test commit
 	//second test
+	public void testCommand()
+	{
+		System.out.println("This is on line 8. ");
+	}
 }
